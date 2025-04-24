@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: noololly-site
+description: "This is a theme that will be used in the overhaul of Noololly's personal website."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
