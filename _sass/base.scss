@@ -1,7 +1,16 @@
 body {
     background-color: #1e1e2e;
-    font-family: sans-serif;
+    font-family: Phantom-sans, sans-serif;
     margin: auto;
     max-width: 70ch;
     color: #cba6f7;
+    @font-face {
+        font-family: "Phantom-sans";
+        src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Regular.woff')
+        format('woff');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+  
   }
